@@ -36,3 +36,4 @@ function removeLastKitten(){
   var lessKittens = kittens.pop()
   return lessKittens
 }
+
